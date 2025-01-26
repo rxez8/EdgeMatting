@@ -1,0 +1,19 @@
+pyyaml >= 5.1
+visualdl >= 2.2.0
+tqdm
+filelock
+scipy
+prettytable
+scikit-learn
+numpy == 1.24.2
+paddlepaddle
+paddleseg >= 2.5
+pymatting
+scikit-image
+numba
+opencv-python
+redis
+flask
+gunicorn
+Pillow
+pycryptodome
